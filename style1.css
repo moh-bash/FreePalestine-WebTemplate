@@ -402,4 +402,7 @@ footer .container{
     section{
         height: calc(100vh - 100px);
     }
+    .container1 div:hover{
+        box-shadow: none;
+}
 }
